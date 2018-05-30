@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application_Shared Prefrences</string>
+    <string name="add_point">Add Point</string>
+    <string name="textViewPoints">view</string>
+</resources>
